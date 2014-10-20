@@ -5,7 +5,7 @@
 # Modified:   07/01/2012
 # Modified:   27/11/2012
 
-# Modify the following to match your system
+# Modify the following to match your system should they differ
 NGINX_CONFIG='/etc/nginx/sites-available'
 NGINX_SITES_ENABLED='/etc/nginx/sites-enabled'
 PHP_INI_DIR='/etc/php5/fpm/pool.d'
